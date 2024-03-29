@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(227, 227, 227);
+}
+.images {
+    height: auto;
+    width: 500px;
+}
+
+.mainheading {
+    font-weight: 700;
+}
+
+.left,
+.reclist {
+    color: rgb(109, 3, 51);
+    font-weight: 700;
+}
